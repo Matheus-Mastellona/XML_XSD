@@ -1,0 +1,9 @@
+D:\Curso\Compiladores\Trabalho\Trabalho\bin\Debug\Trabalho.exe.config
+D:\Curso\Compiladores\Trabalho\Trabalho\bin\Debug\Trabalho.exe
+D:\Curso\Compiladores\Trabalho\Trabalho\bin\Debug\Trabalho.pdb
+D:\Curso\Compiladores\Trabalho\Trabalho\obj\Debug\Trabalho.csproj.AssemblyReference.cache
+D:\Curso\Compiladores\Trabalho\Trabalho\obj\Debug\Trabalho.Properties.Resources.resources
+D:\Curso\Compiladores\Trabalho\Trabalho\obj\Debug\Trabalho.csproj.GenerateResource.cache
+D:\Curso\Compiladores\Trabalho\Trabalho\obj\Debug\Trabalho.csproj.CoreCompileInputs.cache
+D:\Curso\Compiladores\Trabalho\Trabalho\obj\Debug\Trabalho.exe
+D:\Curso\Compiladores\Trabalho\Trabalho\obj\Debug\Trabalho.pdb
